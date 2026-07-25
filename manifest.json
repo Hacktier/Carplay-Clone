@@ -1,0 +1,10 @@
+{
+  "name": "Auto",
+  "short_name": "Auto",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0E1216",
+  "theme_color": "#0E1216"
+}
